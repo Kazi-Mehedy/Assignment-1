@@ -423,4 +423,76 @@ width: 1400px;
 	margin: 14px 0px;
 	padding: 13px;
   }
-  
+  /* section news letter */
+  #news-letter{
+	border-radius: 24px;
+	background: rgb(198, 228, 214);
+	width: 1190px;
+	margin: 80px 60px;
+	padding: 80px 100px;
+	text-align: center;
+  } 
+  .subscribe-title{
+	color: rgb(14, 14, 14);
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 48px;
+	letter-spacing: 0%;
+	text-align: center;
+  }
+  .news-letter-para{
+	width: 622px;
+	text-align: center;
+	color: rgba(14, 14, 14, 0.7);
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: center;
+	margin-left: 293px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+  }
+
+  .news-letter-inpt{
+	width: 600px;
+	box-sizing: border-box;
+	border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+	margin: 32px 0px;
+	padding: 20px 40px 20px 40px;
+	text-align: left;
+	border-radius: 8px 0px 0px 8px;
+	background: rgb(255, 255, 255);
+	color: rgba(14, 14, 14, 0.3);
+	font-family: Fira Sans;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+  }
+
+  .subscriber-button{
+	width: 150px;
+	height: 66px;
+	background: none;
+	color: rgb(255, 255, 255);
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 22px;
+	letter-spacing: 0%;
+	border: none;
+	border-radius: 0px 8px 8px 0px;
+	background: rgb(0, 106, 80);
+	margin: 14px 0px;
+	padding: 13px;
+  }
+  .finishing-para{
+	color: rgba(14, 14, 14, 0.7);
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19px;
+	letter-spacing: 0%;
+	text-align: center;
+  }
+ 
+
