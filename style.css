@@ -1,0 +1,426 @@
+
+.fira-sans-thin {
+	font-family: "Fira Sans", serif;
+	font-style: normal;
+  }
+  *{
+	  margin: 0;
+	  padding: 0;
+  }
+/* Banner section. */
+   #bangladesh-2{
+	width: 1190px;
+	height: 400px;
+	border-radius: 24px;
+	background: rgb(198, 228, 214);
+	margin: 80px 60px;
+	padding: 80px 100px;
+  } 
+  .bangladesh{
+	  display: flex;
+	  flex-direction: row;
+  }
+  .description-box{
+	  width: 622px;
+	  height: 326px;
+	  display: flex;
+	  flex-direction: column;
+	  justify-content: flex-start;
+	  align-items: flex-start;
+	  gap: 24;
+	  padding: 0px;
+  }
+
+  .subtitle{
+	  color: rgba(14, 14, 14, 0.5);
+	  font-size: 24px;
+	  font-weight: 500;
+	  text-align: left;
+	  margin: 16px 0;
+  }
+  .title{
+	color: rgb(14, 14, 14);
+	font-size: 56px;
+	font-weight: 700;
+	text-align: left;
+	line-height: 67px;
+	letter-spacing: 0%;
+  }
+
+  .d-btn{
+	  margin-top: 40px;
+  }
+  .btn{
+	  width: 270px;
+	  height: 56px;
+	  border-radius: 8px;
+	  background: rgb(0, 106, 80);
+	  font-weight: 600;
+	  color: rgb(255, 255, 255);
+	  font-size: 18px;
+  }
+  .img-hero{
+	width: 474px;
+	height: 400px;
+	margin-left: 100px;
+  }
+
+
+  /* vision is here */
+
+  #vision-future{
+	width: 1400px;
+	margin: 80px 60px;
+  }
+  
+
+  .vision-title{
+	color: rgb(14, 14, 14);
+	font-family: Fira Sans;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 48px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+
+  .vision-para{
+	color: rgba(14, 14, 14, 0.7);
+	font-family: Fira Sans;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+	margin: 12px 0;
+  }
+
+  .card-box1{
+	box-sizing: border-box;
+	border-radius: 16px;
+	background: rgba(84, 144, 245, 0.2);
+	width: 410px;
+	padding: 32px;
+	margin-right: 70px;
+
+  }
+  .card-box2{
+	box-sizing: border-box;
+	border-radius: 16px;
+	background: rgba(84, 144, 245, 0.2);
+	width: 410px;
+	padding: 32px; 
+	margin-right: 70px;
+	background: rgb(198, 228, 214);
+  }
+  .card-box3{
+	box-sizing: border-box;
+	border-radius: 16px;
+	background: rgba(84, 144, 245, 0.2);
+	width: 410px;
+	padding: 32px;
+	background: rgb(247, 235, 207);
+  }
+  .icon-heading{
+	color: rgba(14, 14, 14, 0.8);
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+	margin: 20px 0;
+  }
+  .icon-para{
+	color: rgba(14, 14, 14, 0.7);
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+  .box-btn1{
+	width: 122px;
+	margin-top: 30px;
+	border-radius: 8px;
+	background: rgb(84, 144, 245);
+	padding: 11px 20px;
+	text-align: center;
+  }
+  .btn-text{
+	color: rgb(255, 255, 255);
+	font-size: 16px;
+	font-weight: 600;
+	text-align: left;
+	background: none;
+	border: none;
+  }
+  .card-box{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 24;
+	padding: 0px;
+	margin-top: 30px;
+  }
+  .box-btn2{
+	width: 122px;
+	margin-top: 60px;
+	border-radius: 8px;
+	background: rgb(84, 144, 245);
+	padding: 11px 20px;
+	text-align: center;
+	background: rgb(9, 161, 92);
+  }
+  .box-btn3{
+	width: 122px;
+	margin-top: 60px;
+	border-radius: 8px;
+	background: rgb(84, 144, 245);
+	padding: 11px 20px;
+	text-align: center;
+	background: rgb(255, 194, 57);
+  }
+
+  .chief-lecture{
+	box-sizing: border-box;
+	border: 1px solid rgba(14, 14, 14, 0.15);
+	border-radius: 16px;
+	background: rgb(255, 255, 255);
+	margin-top: 30px;
+	padding: 48px 24px 48px 24px;
+	width: 1370px;
+	background-image: url('quote-bg.png');
+	background-repeat: no-repeat;
+  }
+  .lecture{
+	color: rgba(14, 14, 14, 0.8);
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+
+  .younus{
+	  margin-top: 20px;
+	color: rgba(14, 14, 14, 0.8);
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+  .familiar{
+	color: rgba(14, 14, 14, 0.6);
+	font-family: Fira Sans;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+
+  .recent-news{
+	  width: 1360px;
+	  margin : 80px 60px;
+  }
+
+  .recent-headline{
+	color: rgb(14, 14, 14);
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 48px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+
+  .recent-text{
+	color: rgba(14, 14, 14, 0.7);
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+  .main-news{
+	margin: 24px 0px;
+	padding: 48px;
+	border-radius: 24px;
+	background: rgb(255, 255, 255);
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 32;
+	box-shadow: 1px 1px 2px 2px grey;
+  }
+  
+  .satelite-img{
+	border-radius: 24px;
+	margin: 0px 32px;
+  }
+  .news-div{
+	margin: 0px 32px;
+	height: 290px;
+  }
+  .news-header{
+	color: rgba(14, 14, 14, 0.8);
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 38px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+  .aljazeera{
+	  margin-top: 15px;
+  }
+  .date-time{
+	color: rgba(14, 14, 14, 0.7);
+	margin: 20px 0px;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+  .jazeera-main-news{
+	color: rgba(14, 14, 14, 0.7);
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: left;
+  }
+  .btn-jazeera-news{
+	width: 100px;
+	border-radius: 8px;
+	background: rgb(0, 106, 80);
+	margin: 14px 0px;
+	padding: 13px;
+	text-align: center;
+  }
+  .btn-jazeera{
+	background: none;
+	color: rgb(255, 255, 255);
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 22px;
+	letter-spacing: 0%;
+	text-align: left;
+	border: none;
+  }
+#donate-now{
+
+width: 1400px;
+	margin: 80px 60px;
+  }
+
+  .donate-headline{
+	color: rgb(14, 14, 14);
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 48px;
+	letter-spacing: 0%;
+	text-align: center;
+  }
+
+  .donate-para{
+	color: rgba(14, 14, 14, 0.7);
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+	text-align: center;
+	margin: 30px 0;
+  }
+
+  .donate-taka{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: justify;
+	gap: 32;
+	padding: 0px;
+	margin: 40px 0px;
+	
+  }
+
+  .donate-price{
+	width: 310px;
+	height: 128px;
+	box-sizing: border-box;
+	border: 1px solid rgba(14, 14, 14, 0.15);
+	border-radius: 16px;
+	background: rgb(255, 255, 255);
+	padding: 40px;
+	margin: 0px 24px;
+	color: rgba(14, 14, 14, 0.8);
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 48px;
+	letter-spacing: 0%;
+	text-align: center;
+  }
+  .donate-200{
+	width: 310px;
+	height: 128px;
+	box-sizing: border-box;
+	border: 1px solid rgba(14, 14, 14, 0.15);
+	border-radius: 16px;
+	padding: 40px;
+	margin: 0px 24px;
+	color: rgba(14, 14, 14, 0.8);
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 48px;
+	letter-spacing: 0%;
+	text-align: center;
+	background: rgb(198, 228, 214);
+  }
+  .donate-price:hover{
+	background: rgb(198, 228, 214);
+  }
+  .donate-200:hover{
+	background: rgb(255, 255, 255); 
+  }
+  .inpt{
+	  text-align: center;
+  }
+
+  .input-form{
+	width: 1032px;
+	box-sizing: border-box;
+	border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+	background: rgb(255, 255, 255);
+	margin: 32px 0px;
+	padding: 20px 40px 20px 40px;
+	text-align: center;
+	border-radius: 6px;
+	color: rgba(14, 14, 14, 0.3);
+	font-family: Fira Sans;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0%;
+  }
+
+  .donate-now-button-div{
+	
+	
+	text-align: center;
+  }
+  .donate-now-button{
+	background: none;
+	color: rgb(255, 255, 255);
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 22px;
+	letter-spacing: 0%;
+	border: none;
+	border-radius: 8px;
+	background: rgb(0, 106, 80);
+	margin: 14px 0px;
+	padding: 13px;
+  }
+  
